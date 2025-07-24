@@ -26,7 +26,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/user-attachments/assets/98e2abe4-9e9d-4d01-b5b8-6030c03cda6d" alt="Visual Studio Code" width="64px"></a>
   <a href="https://learn.microsoft.com/en-us/visualstudio/releases/2013/2013-redistribution-vs" target="_blank"><img src="https://github.com/user-attachments/assets/74aa57b9-54d4-41c6-9e3b-562832ce1005" alt="Visual Studio 2013" width="64px"></a>
   <a href="https://learn.microsoft.com/en-us/visualstudio/releases/2019/redistribution" target="_blank"><img src="https://github.com/user-attachments/assets/4357e862-e094-4c63-a1bf-f4cca026aaa9" alt="Visual Studio 2019" width="64px"></a>
-  <a href="https://eclipseide.org/" target="_blank"><img src="https://github.com/user-attachments/assets/4728ff25-b21a-49c9-9a0d-94688e9f204d" alt="Eclipse" width="64px"></a>
+  <a href="https://eclipseide.org/" target="_blank"><img src="https://github.com/user-attachments/assets/233c2a39-7aa4-4881-8a01-89075df3bb61" alt="Eclipse" width="64px"></a>
   <a href="https://www.vim.org" target="_blank"><img src="https://github.com/user-attachments/assets/78d1ee70-a4f7-453d-a665-b4fee60199b3" alt="Vim IDE" width="64px"></a>
 </h3>
 
