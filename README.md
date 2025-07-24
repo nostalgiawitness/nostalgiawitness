@@ -11,7 +11,7 @@
 ### 🌟 Tech Stack
 <h3 align="center">
   <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/user-attachments/assets/b0eef040-06b2-49d6-9391-9ae9bf324338" alt="C++" width="64px"></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://github.com/user-attachments/assets/4a3c1a7b-5c57-41d9-bbcc-b681bb5955a2" alt="Java" width="64px"></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://github.com/user-attachments/assets/956f66d2-65c8-4ad0-a616-aa3553c3f61c" alt="Java" width="64px"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/user-attachments/assets/17c0d669-8916-4b0c-9308-8ed3b1a53174" alt="Python" width="64px"></a>
   <a href="https://dev.w3.org/html5/spec-LC/" target="_blank"><img src="https://github.com/user-attachments/assets/35baf3bf-f3c2-4bae-b4df-42c42db62f2e" alt="HTML5" width="64px"></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/user-attachments/assets/b9db5dd7-0e9e-4db6-953b-cfc1067375da" alt="CSS3" width="64px"></a>
