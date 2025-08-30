@@ -9,7 +9,7 @@
 
 ---
 
-### ⚙️ tools i keep poking at
+### ⚙ tools i keep poking at
 <p align="center">
   <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/user-attachments/assets/b0eef040-06b2-49d6-9391-9ae9bf324338" alt="C++" width="64px"></a> 
   <a href="https://www.java.com/" target="_blank"><img src="https://github.com/user-attachments/assets/956f66d2-65c8-4ad0-a616-aa3553c3f61c" alt="Java" width="64px"></a> 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🖥️ where i type until my wrists hurt
+### ✒ where i type until my wrists hurt
 <p align="center">
   <a href="https://notepad-plus-plus.org/" target="_blank"><img src="https://github.com/user-attachments/assets/97007717-41d6-41f0-9dea-2a9a792f58e2" alt="Notepad++" width="64px"></a> 
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/user-attachments/assets/98e2abe4-9e9d-4d01-b5b8-6030c03cda6d" alt="Visual Studio Code" width="64px"></a> 
@@ -34,19 +34,23 @@
 
 ---
 
-### 🌀 other random things
-- breaking music players until they behave
-- drinking tea at ungodly hours  
+### ✦ other random things
+- creating my own zen in videogames
+- breaking music players
+- drinking tea at ungodly hours
+- drowning in literatural proses
 
 ---
 
 ### 📡 find me elsewhere
 <ul>
-  <li><a href="https://t.me/nostalgiawitness" target="_blank">Telegram</a></li>
-  <li><a href="mailto:catinboxed@gmail.com" target="_blank">Email</a></li>
+  <li><a href="https://t.me/nostalgiawitness" target="_blank">Telegram</a></li><sup>nostalgiawitness</sup>
+  <li><a href="mailto:catinboxed@gmail.com" target="_blank">Email</a></li><sup>catinboxed@gmail.com</sup>
+  <li><a href="https://the-abyss.neocities.org" target="_blank">Website</a></li><sup>in case you didn't see it on the left</sup>
 </ul>
 
 ---
 
 <p align="center"><em>some code is mine, some i duct-taped from the ruins of the web.<br/>
 if it breaks, it was probably my fault (but it looks cool tho)</em></p>
+
